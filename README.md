@@ -26,7 +26,7 @@ This data was gotten from the Maven Analytics playground. Here is the (link) htt
 ## Data Cleaning
 
 The dataset had two tables(customer loyalty history and a customer flight activity). A new table was also created in other to house our measures.
-Various measures were created using the SUM function to form the explicit measure. A calculate function was also created, to calculate the total number of flights people who registered after the campaign booked. Null values were replaced with zero(0), from the query editor. Some columns were also dropped.
+Various measures were created using the SUM function to form the explicit measure. A calculate function was also created, to calculate the total number of flights people who registered after the campaign booked. Null values were replaced with zero(0), from the query editor. Some columns were also dropped. The cleaning and analysis was carried out on excel.
 
 ## Data Modelling
 ![](data_model_airline.png)
@@ -34,7 +34,7 @@ Various measures were created using the SUM function to form the explicit measur
 
 ## Data visualization 
 
-You can interact with the visualization (here)  https://eejay98-my.sharepoint.com/:x:/g/personal/faith-tech_eejay98_onmicrosoft_com/EUaT3teCU7xEjGSHjZKIP-kBcIJ9LEvU6E9KtngQwF2gLA?e=OS7yPT
+The data visualization was carried out on excel. You can interact with the visualization (here)  https://eejay98-my.sharepoint.com/:x:/g/personal/faith-tech_eejay98_onmicrosoft_com/EUaT3teCU7xEjGSHjZKIP-kBcIJ9LEvU6E9KtngQwF2gLA?e=OS7yPT
 
 ## Home page
 ![](Home_page.png)
