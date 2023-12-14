@@ -34,7 +34,7 @@ Various measures were created using the SUM function to form the explicit measur
 
 ## Data visualization 
 
-The data visualization was carried out on excel. You can interact with the visualization (here)  https://eejay98-my.sharepoint.com/:x:/g/personal/faith-tech_eejay98_onmicrosoft_com/EUaT3teCU7xEjGSHjZKIP-kBcIJ9LEvU6E9KtngQwF2gLA?e=OS7yPT
+The data visualization was carried out on excel. You can interact with the visualization (here) https://eejay98-my.sharepoint.com/:x:/g/personal/faith-tech_eejay98_onmicrosoft_com/EUz54HtrGkpOju_U6qG3EkYBe2cV7gS8HfOvnSG-YH3XYQ?e=znJ5m1
 
 ## Home page
 ![](Home_page.png)
@@ -49,7 +49,7 @@ The data visualization was carried out on excel. You can interact with the visua
 ---
 
 ## Map page
-![](Map_page.png)
+![](map_page.png)
 ---
 
 ## Insights page
