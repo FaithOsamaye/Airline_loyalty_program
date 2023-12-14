@@ -12,8 +12,11 @@ Customer loyalty program data from Northern Lights Air (NLA), a fictitious airli
 ## Problem statement
 
 1.What impact did the campaign have on the number of booked flights?
+
 2. What people demographics are our loyal customers?
+
 3. What is the fate of the members? Are we still in business? Is the number of people cancelling their membership lager than the active customers?
+   
 4. What demographics have our loyal customers?
 
 ## Data Source
